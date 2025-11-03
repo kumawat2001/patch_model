@@ -1,0 +1,2 @@
+tiatoolbox==1.6.0
+openslide-bin==4.0.0.8
